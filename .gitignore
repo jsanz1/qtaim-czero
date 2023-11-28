@@ -43,3 +43,13 @@
 #Archivos de datos y wfn
 *.dat
 *.wfn
+
+#Arhivo general de la fuente
+/evalrho.cpp
+
+# Mis librerias creada
+aim/
+MonteCarlo/
+
+# Documentación
+docs/
